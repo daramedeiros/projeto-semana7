@@ -3,8 +3,9 @@ const express = require("express")
 const app = express()
 
 //rotas
-const index = require('./routes/index')
-const tarefas = require('./routes/tarefas')
+const index = require('./routes/indexRoute')
+const tarefas = require('./routes/tarefasRoute')
+
 
 
 app.use('/', index)
