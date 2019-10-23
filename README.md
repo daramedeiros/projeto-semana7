@@ -16,4 +16,4 @@ Os requisítos obrigatórios são:
 
 Adicionais:
 
-- Listar as tarefas concluidas
+- Listar as tarefas concluidas.
