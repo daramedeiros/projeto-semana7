@@ -3,6 +3,7 @@
 Desenvolver uma API que disponibiliza uma lista de tarefas a ser compartilhada entre os funcionários de uma empresa. 
 
 Tecnologias utilizadas:
+- JavaScript;
 - Node.js;
 - Express;
 - Postman
