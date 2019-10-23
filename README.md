@@ -1,6 +1,9 @@
-### PROJETO PRÁTICO
+### PROJETO PRÁTICO - SEMANA 7
 
 Desenvolver uma API que disponibiliza uma lista de tarefas a ser compartilhada entre os funcionários de uma empresa. 
+
+Tecnologias utilizadas:
+
 
 Os requisítos obrigatórios são: 
 
