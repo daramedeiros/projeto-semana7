@@ -16,7 +16,6 @@ exports.getById = (req, res) => {
 
 exports.getConcluido = (req, resp) => {
     const tarefaConcluida = tarefas.filter(tarefa => tarefa.concluido == "true")
-
-
+    
     resp.status(200).send(tarefaConcluida)
 }
